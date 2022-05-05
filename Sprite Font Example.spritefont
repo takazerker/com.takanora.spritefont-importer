@@ -1,0 +1,56 @@
+{
+    "FontSize": 8.0,
+    "BaseLine": 0,
+    "LineHeight": 8,
+    "Ascent": 0,
+    "Descent": -5,
+    "Shader": {
+        "instanceID": 0
+    },
+    "Characters": [
+        {
+            "Character": "A",
+            "Sprite": {
+                "fileID": -4829435805098385177,
+                "guid": "93409638cdd6a7e469445e82ec6abedb",
+                "type": 3
+            },
+            "XOffset": 0,
+            "YOffset": 0,
+            "Advance": 0
+        },
+        {
+            "Character": "B",
+            "Sprite": {
+                "fileID": -8607960108324858915,
+                "guid": "93409638cdd6a7e469445e82ec6abedb",
+                "type": 3
+            },
+            "XOffset": 0,
+            "YOffset": 0,
+            "Advance": 0
+        },
+        {
+            "Character": "C",
+            "Sprite": {
+                "fileID": -6597365695084518904,
+                "guid": "93409638cdd6a7e469445e82ec6abedb",
+                "type": 3
+            },
+            "XOffset": 0,
+            "YOffset": 0,
+            "Advance": 0
+        },
+        {
+            "Character": "D",
+            "Sprite": {
+                "fileID": 1529103174942354893,
+                "guid": "93409638cdd6a7e469445e82ec6abedb",
+                "type": 3
+            },
+            "XOffset": 0,
+            "YOffset": 0,
+            "Advance": 0
+        }
+    ]
+}
